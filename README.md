@@ -10,7 +10,7 @@ This project predicts stock price trends using Random Forest Classifier and K-Ne
 - Scikit-learn
 - yfinance
 
-The objective is to forecast whether the stock's closing price will rise or fall the next day based on historical data. The project involves data retrieval using the yfinance library, data cleaning, feature engineering, model training, and evaluation.
+The objective is to forecast whether the stock's closing price will rise or fall the next day based on historical data. The project involves data retrieval using the `yfinance` library, data cleaning, feature engineering, model training, and evaluation.
 
 Key steps include:
 
