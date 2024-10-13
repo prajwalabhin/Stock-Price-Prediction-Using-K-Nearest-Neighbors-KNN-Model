@@ -2,7 +2,7 @@
 This project predicts stock price trends using Random Forest Classifier and K-Nearest Neighbors (KNN) on datasets from S&amp;P 500 (US stocks), NSE 50 (Indian stocks), and ADANI Enterprises (single Indian stock). The objective is to forecast whether a stock's closing price will rise or fall the next day based on historical data.
 
 
-# Dependencies
+## Dependencies
 - Python 3.7+
 - Pandas
 - NumPy
@@ -20,5 +20,5 @@ Key steps include:
 
 The project showcases the effectiveness of Random Forest Classifier for larger datasets and KNN for individual stock analysis, achieving significant accuracy in predictions.
 
-# License
+## License
 This project is licensed under the MIT License.
